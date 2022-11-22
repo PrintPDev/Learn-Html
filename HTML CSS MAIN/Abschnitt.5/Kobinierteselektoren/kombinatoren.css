@@ -1,0 +1,20 @@
+b ~ span > b {
+    color:red;
+}
+
+p span.warnung {
+    background:aqua;
+
+}
+
+.warnung ~ b {
+    color:blueviolet;
+}
+
+
+ 
+html head ~ body > p > b ~ #wichtig{
+    font-size: 100px;
+    color:green;
+
+}

@@ -1,0 +1,12 @@
+.gefahr{
+    color:red;
+}
+.wichtig{
+    color:blueviolet;
+    font-weight: bold;
+}
+
+p.gefahr{
+    text-decoration: underline;
+    background-color: aqua;
+}

@@ -1,0 +1,8 @@
+P {
+    background-color: blue;
+}
+
+p ~ p {
+    width: 4px;
+    height: 10px;
+}

@@ -1,0 +1,21 @@
+body {
+    color:red;
+    border:solid;
+}  
+
+h1 {
+    color:aqua;
+
+    border:solid;
+    border:inherit;
+}
+
+span {
+    color:gray;
+    border:solid
+}
+
+b { 
+    color:aquamarine;
+    border:solid;
+}

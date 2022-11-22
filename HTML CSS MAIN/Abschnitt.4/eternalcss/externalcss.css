@@ -1,0 +1,20 @@
+html{
+    background-color: aqua;
+    color: black
+
+}
+
+h1{
+    color:red;
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+p {
+    color:blueviolet;
+
+}
+
+span{
+    font-weight: bold;
+}
